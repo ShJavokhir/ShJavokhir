@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently mobile and backend software developer
 - 📫 How to reach me: https://t.me/ShJavohir
-
+ 
 
 
 <!--
