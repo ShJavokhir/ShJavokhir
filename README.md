@@ -3,7 +3,7 @@
 - 🔭 I’m currently mobile and backend software developer
 - 📫 How to reach me: [@ShJavohir](https://t.me/ShJavohir)
 - ⚡ [My portfolio](https://t.me/ShJavohir_portfolio)
- 
+- 🧩 Programming languages I know: Java, Dart, JavaScript, c++, mql4, python, pascal, 
 
 
 <!--
