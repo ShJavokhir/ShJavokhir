@@ -11,6 +11,20 @@
 - 💡IDE (code editor): Блокнот ;) ,VsCode, Android studio, WebStorm, Intellij idea
 - 📟 Terminal: Iterm2
 
+<h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+  <br>
+
+  <p align="center">
+   <a href="https://github.com/shjavokhir">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shjavokhir&show_icons=true&theme=material-palenight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shjavokhir&show_icons=true&theme=material-palenight&layout=compact" alt="javokhir" />
+  </a>
+</p>
+</h3>
 <!--
 **ShJavokhir/ShJavokhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
