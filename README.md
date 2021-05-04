@@ -5,7 +5,7 @@
 - ⚡ [My portfolio](https://t.me/ShJavohir_portfolio)
 - 🧩 Programming languages I know: Java, Dart, JavaScript, c++, mql4, python, pascal
 - 🖼 Other skills: UI/UX, design, learning 3D modeling right now
-- 🧸 Gaming: Beginner Unity3D
+- 🧸 Gaming: Beginner Unity3D 
 - 💻 Machines: Macbook Pro (M1/16gb), Acer aspice E15 (i3-6006/8gb)
 - 🔧 Opeartion systems: MacOs big sur (11.2.3), Windows 10 repack, Android 8.0
 - 💡IDE (code editor): Блокнот ;) ,VsCode, Android studio, WebStorm, Intellij idea
