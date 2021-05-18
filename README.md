@@ -17,7 +17,7 @@
     📈  &nbsp; My GitHub Stats
   </summary> 
   
-  <br>
+  <br> 
 
   <p align="center">
    <a href="https://github.com/shjavokhir">
