@@ -4,10 +4,9 @@
 - 📫 How to reach me: [@ShJavohir](https://t.me/ShJavohir) 
 - ⚡ [My portfolio](https://t.me/ShJavohir_portfolio)
 - 🧩 Programming languages I know: Java, Dart, JavaScript, c++, mql4, python, pascal
-- 🖼 Other skills: UI/UX, design, learning 3D modeling right now
-- 🧸 Gaming: Beginner Unity3D 
+- 🖼 Other skills: UI/UX, design, learning 3D modeling right now, Flat design
 - 💻 Machines: Macbook Pro (M1/16gb), Acer aspice E15 (i3-6006/8gb), POCO F3(SD870/256)
-- 🔧 Opeartion systems: MacOs big sur (11.2.3), Windows 10 repack, Android 11
+- 🔧 Opeartion systems: MacOs big sur (11.5.2), Windows 10 repack, Android 11
 - 💡IDE (code editor): Блокнот ;) ,VsCode, Android studio, WebStorm, Intellij idea
 - 📟 Terminal: Iterm2
 
