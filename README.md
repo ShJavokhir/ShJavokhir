@@ -1,5 +1,5 @@
 ### Hi there 👋 
-    
+- I have been programming since 2017    
 - 🔭 I’m currently mobile and backend software developer
 - 📫 How to reach me: My account: [@ShJavohir](https://t.me/ShJavohir)
 - ⚡ [My portfolio](https://t.me/ShJavohir_portfolio)
