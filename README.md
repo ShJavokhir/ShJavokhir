@@ -1,12 +1,12 @@
 ### Hi there 👋 
 - I have been programming since 2017    
-- 🔭 I’m currently mobile and backend software developer
+- 🔭 I’m currently AlgoTrader, Mobile as well as Backend developer
 - 📫 How to reach me: My account: [@ShJavohir](https://t.me/ShJavohir)
 - ⚡ [My portfolio](https://t.me/ShJavohir_portfolio)
 - 🧩 Programming languages I know: Java, Dart, TypeScript, c++, mql4, python, pascal
 - 🖼 Other skills: AlgoTrading, Binance, MT4, UI/UX, design.
 - 💻 Machines: Macbook Pro (M1/16gb), Acer aspice E15 (i3-6006/8gb), POCO F3(SD870/256)
-- 🔧 Opeartion systems: MacOs big sur (12.0.1), Windows 10 repack, Android 11
+- 🔧 Opeartion systems: MacOs big sur (12.3.1), Windows 10 repack, Android 11
 - 💡IDE (code editor): Vim ;) ,VsCode, Android studio, WebStorm, Intellij idea
 - 📟 Terminal: Iterm2
 
