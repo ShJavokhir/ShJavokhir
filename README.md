@@ -3,11 +3,11 @@
 - 🔭 I’m currently AlgoTrader, Mobile as well as Backend developer
 - 📫 How to reach me: My account: [@ShJavohir](https://t.me/ShJavohir)
 - ⚡ [My portfolio](https://t.me/ShJavohir_portfolio)
-- 🧩 Programming languages I know: Java, Dart, TypeScript, c++, mql4, python, pascal
-- 🖼 Other skills: AlgoTrading, Binance, MT4, UI/UX, design.
+- 🧩 Programming languages I know: Java, Dart, TypeScript, C++, Mql4, Python, Solidity, Pascal
+- 🖼 Other skills: AlgoTrading, Binance, MT4, UI/UX, Design, Blockchain, ReactJs, NestJs
 - 💻 Machines: Macbook Pro (M1/16gb), Acer aspice E15 (i3-6006/8gb), POCO F3(SD870/256)
-- 🔧 Opeartion systems: MacOs big sur (12.3.1), Windows 10 repack, Android 11
-- 💡IDE (code editor): Vim ;) ,VsCode, Android studio, WebStorm, Intellij idea
+- 🔧 Opeartion systems: MacOs big sur (13), Windows 10, Android 11
+- 💡IDE (code editor): Vim ;) ,VsCode, Android studio, WebStorm, Intellij idea, Meta editor
 - 📟 Terminal: Iterm2
 
 
