@@ -1,4 +1,4 @@
-### Hi there 👋 
+<!--### Hi there 👋 
 - I have been programming since 2017    
 - 🔭 I’m currently AlgoTrader, Mobile as well as Backend developer
 - 📫 How to reach me: My account: [@ShJavohir](https://t.me/ShJavohir)
@@ -26,7 +26,7 @@
   </a>
 </p>
 </h3> 
-<!--
+
 **ShJavokhir/ShJavokhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
